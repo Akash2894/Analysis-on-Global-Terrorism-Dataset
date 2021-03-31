@@ -1,0 +1,2 @@
+Year,Month,Day,Extended,Country,Region,Specificity,Vicinity,crit1,crit2,crit3,doubtterr,alternative,multiple,success,suicide,attacktype1,targsubtype1,natlty1,guncertain1,individual,nperps,nperpcap,claimed,claimmode,weaptype1,weapsubtype1,Dead,nkillus,nkillter,nwoundus,nwoundte,property,propextent,ishostkid,ransom,INT_LOG,INT_IDEO,INT_MISC,INT_ANY
+2021,3,28,0,92,6,1,0,1,1,1,0,1,0,1,0,3,22,215,0,0,240,0,1,7,5,2,7,0,0,0,1,1,2,1,1,1,1,1,1
