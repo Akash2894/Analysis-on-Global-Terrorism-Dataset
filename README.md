@@ -1,9 +1,5 @@
 # Analysis on Global Terrorism Dataset
-We select top 3 areas (like military base, public sector, police station) which were affected the most by terrorist attack  and did analysis on it. Motive of our analysis is to provide security to particular areas which were targeted by terrorist groups.We check that our prediction is right or not by testing on Real-Time data.
- please find the link of the dataset (https://start.umd.edu/research-projects/global-terrorism-database-gtd)
- This dataset is upto 2019 ,we added 2020 records after exploring few of the websites
- Also attached the code rar file and dataset rar file and report on it.
- 
+In this project , we have worked on a dataset known as 'Global Terrorism'. We have gathered the data from a site known as 'START'(Study of Terrorism And Responses to Terrorism). Initially , on this dataset we have performed various operations like data cleaning and preprocessing , exploratory data analysis, outliers detection, etc. After performing these operations, we have considered only the Top-3 Targets areas which were mostly attacked by the perpetrators. For classifing and predicting the type of attack, we have used several machine-learning algorithms like Random Forest Classifier, Decision Tree Classifier, K-Nearest Neighbours, etc. After performing such algorithms, we are able to predict the type or class of the attack which will happen in the future. The fundamental motive of this project is to predict the correct type of the attack with maximum accuracy and then take respective security and safety measures based on that. Link for dataset:- https://start.umd.edu/research-projects/global-terrorism-database-gtd
  project done by
  Akash Ganjegaonkar,
  suraj yadav
